@@ -1,0 +1,60 @@
+body{
+    background-position: center;
+background-size: cover;
+font-family: 'Dancing Script', cursive;
+}
+
+
+.heading{
+background-color: rgb(142, 164, 157);
+color: rgba(0, 0, 0, 0.832);
+}
+
+.heading h3{
+text-align: left;
+text-shadow: 3px;
+display: inline;
+}
+
+.heading button{
+float: right;
+border-radius: 20px;
+border-width: 1.3px;
+border-style: ridge;
+
+}
+
+#start{
+background-color: lightblue;
+color: rgba(0, 0, 0, 0.896);
+width: 20%;
+font-size: 16px;
+border-radius: 10px;
+}
+
+#status{
+background-color: rgb(146, 123, 162);
+color: black;
+width: 20%;
+font-size: 16px;
+}
+
+canvas{
+
+border-radius: 30px;
+border-style: ridge;
+}
+
+.modal-dialog{
+width: 90%;
+background-color: rgba(173, 216, 230, 0.663);
+}
+
+ol{
+font-weight:200;
+font-size: 30px;
+}
+
+h4{
+font-size: 30px;
+}
